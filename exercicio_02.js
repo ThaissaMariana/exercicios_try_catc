@@ -40,3 +40,4 @@ class MeuErro extends Error {
   /*console.log(atributos.nome);   
   console.log(atributos.idade);  
   console.log(atributos.turma); */
+  

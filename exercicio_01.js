@@ -37,7 +37,7 @@ class Animal {
     }
   }
   
-  const meuAnimal = new Animal("Fido", 3, "cachorro");
+  const meuAnimal = new Animal("", 3, "cachorro");
   const atributos = (meuAnimal.mostrarAtributos());
   
   // Imprimindo os atributos
